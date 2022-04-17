@@ -1,0 +1,26 @@
+.header {
+    position: sticky;
+    font-size: 24px;
+    text-decoration: underline;
+}
+.Tableau {
+    position: sticky;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.Footer {
+    position: sticky;
+    font-size: 7px;
+}
+.Home {
+    font-size: 28px;
+    font-family: cursive;
+}
+.Caption {
+    font-family: fantasy;
+    text-decoration-color: bisque;
+}
+.Name {
+    font-size: 9px;
+    font-family: cursive;
+}
